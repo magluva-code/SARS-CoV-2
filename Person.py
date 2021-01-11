@@ -2,7 +2,6 @@
 
 class Person(object):
     """
-    @constant STATUSES (list)
     An instance of Person is a part of the total population size N.
     Person p can have status as susceptible, Infected, Deceased, Recovered or Vaccinated.
     """
